@@ -5,7 +5,7 @@
 </p>
 
 <h1>Descripción del proyecto</h1>
-<p> La calculadora permite realizar simples operaciones atitméticas (tanto como suma, resta, multiplicación, división, cálculo de porcentajes, elevación a potencia y 
+<p> La calculadora permite realizar simples operaciones aritméticas (tanto como suma, resta, multiplicación, división, cálculo de porcentajes, elevación a potencia y 
     raíz cuadrada). También permite el cambio de signo a un número en específico.
     Para lograr este pequeño mini proyecto se ultilizaron tecnologías de desarrollo (como HTML, CSS(sass) y JavaScript). Y por último cabe mencionar que ésta página web (calculadora) es responsivo. Pruébalo 👉 <a href="https://cantarodev.github.io/calculadora-basica-javascript/" target="_blank">Calculadora<a/></p>
 <h1>Funcionalidades del proyecto</h1>
